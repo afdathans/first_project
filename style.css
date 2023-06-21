@@ -1,0 +1,44 @@
+* {
+  font-family: "Poppins";
+}
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 1rem;
+  background-color: #f6c90e;
+}
+#Project {
+  background-color: #f6c90e;
+}
+section {
+  padding-top: 7rem;
+}
+nav {
+  background-color: #3a4750;
+}
+footer {
+  background-color: #3a4750;
+}
+.font {
+  color: #005aa7;
+}
+.btn {
+  background-color: #005aa7;
+}
+li {
+  font-weight: bold;
+}
+#About {
+  background-color: #eeeeee;
+}
+#Contact {
+  background-color: #eeeeee;
+}
+a {
+  text-decoration: none;
+}
+.wa {
+  color: #198754;
+}
+.ig {
+  color: #ffc107;
+}
